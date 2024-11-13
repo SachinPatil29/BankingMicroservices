@@ -1,2 +1,2 @@
-This is a b1 branch file
- 
+This is a b2 branch file
+
